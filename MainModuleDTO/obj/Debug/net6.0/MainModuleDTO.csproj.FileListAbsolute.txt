@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\bin\Debug\net6.0\MainModuleDTO.deps.json
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\bin\Debug\net6.0\MainModuleDTO.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\bin\Debug\net6.0\MainModuleDTO.pdb
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.AssemblyInfo.cs
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\refint\MainModuleDTO.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\MainModuleDTO.pdb
+C:\Users\dell\source\repos\AssessmentTask\MainModuleDTO\obj\Debug\net6.0\ref\MainModuleDTO.dll

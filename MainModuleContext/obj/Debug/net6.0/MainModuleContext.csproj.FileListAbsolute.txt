@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\bin\Debug\net6.0\MainModuleContext.deps.json
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\bin\Debug\net6.0\MainModuleContext.runtimeconfig.json
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\bin\Debug\net6.0\MainModuleContext.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\bin\Debug\net6.0\MainModuleContext.pdb
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.AssemblyInfo.cs
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\refint\MainModuleContext.dll
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.pdb
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\MainModuleContext.genruntimeconfig.cache
+C:\Users\dell\source\repos\AssessmentTask\MainModuleContext\obj\Debug\net6.0\ref\MainModuleContext.dll
